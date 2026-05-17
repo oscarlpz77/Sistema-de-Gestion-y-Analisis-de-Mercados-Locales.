@@ -140,4 +140,3 @@ El sistema está dirigido principalmente a:
 
 Proyecto académico desarrollado para la materia de Programación Avanzada, enfocado en la aplicación práctica de Programación Orientada a Objetos, interfaces gráficas y análisis de datos.
 
-.
