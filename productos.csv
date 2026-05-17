@@ -1,0 +1,6 @@
+id_producto,nombre,categoria,precio,stock
+P_1,Leche Entera,Lácteos,1.5,50
+P_2,Pan de Molde,Panadería,2.0,30
+P_3,Manzanas,Frutas,0.5,100
+P_4,Arroz,Abarrotes,1.2,5
+P_5,Frijoles,Abarrotes,1.8,0
