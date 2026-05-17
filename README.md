@@ -1,0 +1,1 @@
+# Sistema-de-Gestion-y-Analisis-de-Mercados-Locales.
